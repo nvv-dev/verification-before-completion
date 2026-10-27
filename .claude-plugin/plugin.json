@@ -1,0 +1,16 @@
+{
+  "name": "verification-before-completion",
+  "version": "0.1.0",
+  "description": "Fresh evidence after the last change, checked against each acceptance criterion, plus an honest list of what was weakened or skipped.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/verification-before-completion",
+  "repository": "https://github.com/nvv-dev/verification-before-completion",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
